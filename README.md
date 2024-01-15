@@ -12,4 +12,4 @@ Tableau Public Link:  ['NFT_Profitability_Dashboard'](https://public.tableau.com
 ![Viz Overview](https://github.com/Mokakash/NFT_Profitability_Dashboard_Tableau/blob/main/Assets/NFT_Dashboard.gif)
 
 
-To gain a comprehensive understanding of the Key Performance Indicators (KPIs) and statistics used in this dashboard, I strongly recommend reviewing the ['NFT_Trades_Project'](https://github.com/Mokakash/NFT_Trades_Project_Python) in my repository where I utilized Python to clean the dataset and performed an in-depth Exploratory Data Analysis (EDA).
+To gain a comprehensive understanding of the Key Performance Indicators (KPIs) and statistics used in this dashboard, I strongly recommend reviewing the [NFT_Trades_Project](https://github.com/Mokakash/NFT_Trades_Project_Python) in my repository where I utilized Python to clean the dataset and performed an in-depth Exploratory Data Analysis (EDA).
