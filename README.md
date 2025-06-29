@@ -4,7 +4,7 @@ In this Tableau visualization project, I have used my personal collection of 202
  
 This Tableau dashboard seamlessly integrates interactive filtering and reactive data selection capabilities and can be toggled between day and night modes based on user preferences.
 
-Feel free to explore and interact with the dashboard by visiting the Tableau Public link provided here.
+Feel free to explore and interact with the dashboard by visiting the Tableau Public link provided here. 
 
 Tableau Public Link:  ['NFT_Profitability_Dashboard'](https://public.tableau.com/app/profile/moka.kash/viz/NFT_Profitability/NFT_Profitability?publish=yes)
 
