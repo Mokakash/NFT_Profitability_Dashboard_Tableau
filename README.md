@@ -1,6 +1,6 @@
 # NFT_Profitability_Dashboard_Tableau
 
-In this Tableau visualization project, I have used my personal collection of 2022 NFT trades to visually analyze my trades, exploring the most profitable trading methods, month-over-month performances, and determining where to focus my time among various alpha groups.
+In this Tableau visualization project, I have used my personal collection of 2022 NFT trades to visually analyze my trades, exploring the most profitable trading methods, month-over-month performances, and determining where to focus my time among various alpha groups. 
  
 This Tableau dashboard seamlessly integrates interactive filtering and reactive data selection capabilities and can be toggled between day and night modes based on user preferences.
 
